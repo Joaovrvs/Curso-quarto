@@ -1,0 +1,32 @@
+{
+    "id": "2AEDBA95",
+    "path": "~/Curso quarto/teste.qmd",
+    "project_path": "teste.qmd",
+    "type": "quarto_markdown",
+    "hash": "3161890822",
+    "contents": "",
+    "dirty": true,
+    "created": 1707330690714.0,
+    "source_on_save": false,
+    "relative_order": 2,
+    "properties": {
+        "rmdVisualMode": "true",
+        "rmdVisualWrapConfigured": "true",
+        "tempName": "Untitled2",
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "58,0",
+        "scrollLine": "45",
+        "docOutlineVisible": "1",
+        "rmdVisualCollapsedChunks": "",
+        "rmdVisualModeLocation": "1354:1468"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1707333699,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1707334927871,
+    "read_only": false,
+    "read_only_alternatives": []
+}

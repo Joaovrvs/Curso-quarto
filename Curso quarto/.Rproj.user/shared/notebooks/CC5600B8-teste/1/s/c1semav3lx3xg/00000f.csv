@@ -1,0 +1,8 @@
+"0","nadadeiras<- penguins |>"
+"0","  mutate(tamanho_nadadeira ="
+"0","           if_else(flipper_length_mm > 200, ""longa"", ""curta"")) |>"
+"0","  # Filtrando NA na variavel"
+"0","  filter(!is.na(tamanho_nadadeira)) |>"
+"0","  summarise(media_bico= mean(bill_length_mm),"
+"0","            desv_pad_bico= sd(bill_length_mm),"
+"0","            .by = tamanho_nadadeira)"

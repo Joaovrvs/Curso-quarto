@@ -1,0 +1,25 @@
+install.packages(palmepenguins)
+install.packages(palmerpenguins)
+install.packages("palmerpenguins")
+install.packages("tidyverse")
+install.packages("tidyverse")
+install.packages("tidyverse")
+library(palmerpenguins)
+library(tidyverse)
+glimpse(penguins)
+## usando mutate para filtrar dados
+mutate_simples <- mutate(penguins,tamanho_nadadeira =
+                           if_else(flipper_length_mm > 200, "longa", "curta"))
+glimpse(mutate_simples)
+# usnado pipe nativo
+nadadeiras<- penguins |>
+  mutate(tamanho_nadadeira =
+           if_else(flipper_length_mm > 200, "longa", "curta")) |>
+  # Filtrando NA na variavel
+  filter(!is.na(tamanho_nadadeira)) |>
+  summarise(media_bico= mean(bill_length_mm),
+            desv_pad_bico= sd(bill_length_mm),
+            .by = tamanho_nadadeira)
+View(nadadeiras)
+## Mudando diretório
+<-read.csv("bivariate.csv")
