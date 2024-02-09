@@ -5,21 +5,15 @@ format:
    revealjs:
     theme: moon
     incremental: true
-  
 ---
 
 ## Pessoal
--João Vitor R. V. Da silva
-- Aluno de graduação em Estatística
--24 anos
 
-
-
-
+-João Vitor R. V. Da silva - Aluno de graduação em Estatística -24 anos
 
 ## Avisos
 
-::: {.callout-tip}
+::: callout-tip
 ## Aviso importantissimo
 
 Isso é apenas um aviso de teste.

@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "testeapresentação.html#pessoal",
+    "href": "testeapresentação.html#pessoal",
+    "title": "Presentation",
+    "section": "Pessoal",
+    "text": "Pessoal\n-João Vitor R. V. Da silva - Aluno de graduação em Estatística -24 anos"
+  },
+  {
+    "objectID": "testeapresentação.html#avisos",
+    "href": "testeapresentação.html#avisos",
+    "title": "Presentation",
+    "section": "Avisos",
+    "text": "Avisos\n\n\n\n\n\n\nAviso importantissimo\n\n\nIsso é apenas um aviso de teste."
+  },
+  {
+    "objectID": "testeapresentação.html#code",
+    "href": "testeapresentação.html#code",
+    "title": "Presentation",
+    "section": "Code",
+    "text": "Code\nWhen you click the Render button a presentation will be generated that includes both content and the output of embedded code. You can embed code like this:\n\n\n[1] 2"
+  }
+]

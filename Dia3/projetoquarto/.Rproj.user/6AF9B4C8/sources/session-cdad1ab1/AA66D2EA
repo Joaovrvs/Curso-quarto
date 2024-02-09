@@ -3,7 +3,7 @@
     "path": "~/Curso quarto/Dia3/projetoquarto/testeapresentação.qmd",
     "project_path": "testeapresentação.qmd",
     "type": "quarto_markdown",
-    "hash": "831026021",
+    "hash": "3382195982",
     "contents": "",
     "dirty": false,
     "created": 1707499617438.0,
@@ -17,16 +17,16 @@
         "Source": "Source",
         "docOutlineVisible": "1",
         "rmdVisualCollapsedChunks": "",
-        "cursorPosition": "6,4",
+        "cursorPosition": "0,3",
         "scrollLine": "0",
-        "rmdVisualModeLocation": "71:13"
+        "rmdVisualModeLocation": "71:257"
     },
     "folds": "",
-    "lastKnownWriteTime": 1707502268,
+    "lastKnownWriteTime": 1707502927,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1707502268875,
+    "last_content_update": 1707502927537,
     "read_only": false,
     "read_only_alternatives": []
 }
